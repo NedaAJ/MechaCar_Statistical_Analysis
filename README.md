@@ -13,6 +13,7 @@ The project's purpose is to evaluate vehicle performance across different manufa
 
 ## Summary Statistics on Suspension Coils
 ![total_summary_table.PNG](Resources/total_summary_table.PNG)
+
 ![lot_summary_table.PNG](Resources/lot_summary_table.PNG)
 
 The aggregate variance for the whole dataset reveals that the present manufacturing data fulfils the variance constraint of 100 pounds per square inch. However, when the three lots are split, the third lot has a substantially greater variance. Because the lots are picked at random, it's possible that a third of them will fall short of the required suspension coils.
