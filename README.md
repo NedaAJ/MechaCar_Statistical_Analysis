@@ -12,9 +12,12 @@ The project's purpose is to evaluate vehicle performance across different manufa
 - As additional variables are processed through the regression, the multiple R-squared grows. Adjusted R-squared, on the other hand, accounts for this rise and includes penalties for the amount of predictors in the model, making it a more accurate predictor of the linear model's effectiveness. With a modified R-square of 0.6825, this linear model can reasonably estimate the mpg of MechaCar prototypes.
 
 ## Summary Statistics on Suspension Coils
-![total_summary_table.PNG](Resources/total_summary_table.PNG)
-
-![lot_summary_table.PNG](Resources/lot_summary_table.PNG)
+<p align="center">
+  <img src="https://github.com/NedaAJ/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary_table.PNG">
+</p>
+<p align="center">
+  <img src="https://github.com/NedaAJ/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary_table.PNG">
+</p>
 
 The aggregate variance for the whole dataset reveals that the present manufacturing data fulfils the variance constraint of 100 pounds per square inch. However, when the three lots are split, the third lot has a substantially greater variance. Because the lots are picked at random, it's possible that a third of them will fall short of the required suspension coils.
 
