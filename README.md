@@ -40,7 +40,14 @@ We fail to reject the null hypothesis at a significance threshold of 0.05 since 
 We may reject the null hypothesis at a significance level of 0.05 since the p-value equals 0.04168. In compared to the previous two lots, the mean of this sample is similarly much lower. Furthermore, unlike the previous two lots, the third lot's confidence interval excludes the estimated population mean.
 
 ## Study Design: MechaCar vs. Competition
+A linear regression on city and highway fuel economy is another statistical research that may be used to compare MechaCar to its competitors. Nowadays, gasoline is costly, and it is a significant characteristic that many buyers consider when acquiring a new vehicle. This analysis can incorporate the following metrics:
 
+- City and highway fuel efficiency: dependent variable
+- Horse power: independent variable
+- Vehicle weight: independent variable
+- AWD capabilities: independent variable
+- MPG: independent variable
+For the sample data set at hand, we would need to collect fuel efficiency and horse power statistics in addition to the MPG, AWD, and vehicle weight data that we already have.
 
 ## Contact:
 - Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
